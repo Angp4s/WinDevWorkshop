@@ -1,4 +1,4 @@
-# Windows Camp //Labs
+﻿# Windows Camp //Labs
 Лабораторные работы по разработке универсальных приложений на платформе Windows 10
 
 Добро пожаловать на виртуальные лабораторные работы Windows Camp //Labs! Эти лабораторные работы предназначены для
@@ -23,6 +23,10 @@ This workshop is based on the _full_ Windows Dev Camp set of materials, which is
 The purpose of the Workshop is to provide a more interactive developer training experience that minimizes lecture in favor of more instructor led lab experiences.
 
 Each module contains a minimal PPT deck and one or more 'hands on labs' for direct delivery in a classroom setting.
+
+
+The lab manuals and solution files for this module have been moved.
+All hands on labs are now in their own repo at https://github.com/Windows-Readiness/WinDevHOLs so that they can be easily downloaded independently of the slide decks.
 
 The day long agenda consists of the following modules, each 60 minutes split between PPT and Lab
 
